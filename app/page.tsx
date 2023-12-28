@@ -12,7 +12,7 @@ function Hero() {
   return (
     <section className="hero">
       <div className="image-container">
-        <Image src="/me.png" alt="Me" width={500} height={500} />
+        <img src="/me.png" alt="Me" width={500} height={500} />
       </div>
 
       <span className="hero-description">
